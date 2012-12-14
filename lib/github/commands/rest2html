@@ -5,7 +5,7 @@
 __author__ = "Jannis Leidel"
 __copyright__ = "Copyright (C) 2008 Jannis Leidel"
 __license__ = "Public Domain"
-__version__ = "0.1"
+__version__ = "0.1.1"
 
 try:
     import locale
